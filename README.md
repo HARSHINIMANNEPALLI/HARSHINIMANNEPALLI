@@ -10,7 +10,7 @@
 
 ## ✨ About Me
 Hi there! 👋  
-I'm Harshini, a passionate Computer Science Engineering Data Science graduate with strong foundations in **DSA, OOP, and problem solving**.  
+I'm Harshini, a passionate Computer Science Engineering Data Science graduate with strong foundations.  
 I enjoy building and Solving real-world situations.
 
 ---
