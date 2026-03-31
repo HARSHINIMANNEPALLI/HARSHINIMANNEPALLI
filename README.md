@@ -1,62 +1,85 @@
-# 👋 Hi, I'm Mannepalli Harshini  
-
-Passionate about solving real-world problems.
-
-💻 Data Science | Machine Learning | Web Development | Software Engineer
----
-📍 Nellore, India  
----
-
 ## 🔗 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-mannepalliharshini1@gmail.com-grey?style=flat-square)](mailto:mannepalliharshini1@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square)](https://www.linkedin.com/in/mannepalli-harshini-b81129224/)
-[![GitHub](https://img.shields.io/badge/GitHub-HARSHINIMANNEPALLI-black?style=flat-square)](https://github.com/HARSHINIMANNEPALLI)
+[![Email](https://img.shields.io/badge/Email-mannepalliharshini1@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:mannepalliharshini1@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mannepalli-harshini-b81129224/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/HARHINIMANNEPALLI)
 
 ---
 
 ## ✨ About Me
-
 Hi there! 👋  
-I'm a Data Science student passionate about Machine Learning, Web Development, and problem solving.  
-I enjoy building real-world solutions using data and technology.
+I'm Harshini, a passionate Computer Science Engineering Data Science graduate with strong foundations in **DSA, OOP, and problem solving**.  
+I enjoy building and Solving real-world situations.
 
 ---
 
 ## 🚀 Projects
 
 ### 🚗 Real-Time Car Parking Slot Detection
-- Detects empty parking slots using video processing  
-- Uses preprocessing and classification techniques  
+- Built a system to detect vacant parking slots using video processing  
+- Applied preprocessing + classification techniques  
+- Tested performance in high-traffic scenarios  
 
 ### ✈️ Flight Delay Analysis
-- Data cleaning and visualization using Tableau  
+- Cleaned and analyzed flight data  
+- Created **Tableau dashboards** for insights  
 - Identified delay patterns and trends  
 
 ### 🛌 Sleep Quality Prediction
-- Built ML model using sensor data  
-- Improved accuracy with training techniques  
+- Built ML pipeline using sensor + survey data  
+- Implemented preprocessing & model training  
+- Improved accuracy using cross-validation  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-**Languages:**  
-Python, Java, SQL  
-
-**Technologies:**  
-Machine Learning, Data Analysis, Web Development, SDLC 
-
-**Tools:**  
-Git, GitHub, VS Code  
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=python)
+![Java](https://img.shields.io/badge/Java-teal?style=flat-square&logo=openjdk)
+![SQL](https://img.shields.io/badge/SQL-darkblue?style=flat-square&logo=mysql)
 
 ---
 
+### 🌐 Web & App Development
+![HTML5](https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=css3)
+
+---
+
+### 🤖 AI, ML & Data
+![Pandas](https://img.shields.io/badge/Pandas-purple?style=flat-square&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?style=flat-square&logo=numpy)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-green?style=flat-square)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-grey?style=flat-square)
+
+---
+
+### 🧰 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=visualstudiocode)
+
+---
+
+## 🏆 Certifications
+- Python for Data Science — IBM  
+- SQL — HackerRank  
+- Data Analytics — ExcelR  
+- Power BI — PwC  
+- Machine Learning — Cognibot  
+
+---
+
+## 👩‍💼 Experience & Leadership
+- 📌 Data Science SIST Club — Organized events & workshops  
+- 📌 GDSC Club — Content team contributor  
+
+---
 ## 🎓 Education
 
-🎓 B.Tech — Computer Science (Data Science)  
-🏫 Sathyabama Institute of Science and Technology  
+🎓 **Bachelor of Technology — Computer Science (Data Science)**  
+🏫 Sathyabama Institute of Science and Technology, Chennai  
 📅 2021 – 2025  
-📊 CGPA: 7.69 / 10  
-
----
+📊 CGPA: 7.69 / 10
