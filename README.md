@@ -3,6 +3,7 @@
 Passionate about solving real-world problems.
 
 💻 Data Science | Machine Learning | Web Development | Software Engineer
+---
 📍 Nellore, India  
 ---
 
