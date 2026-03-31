@@ -2,12 +2,8 @@
 
 Passionate about solving real-world problems.
 
-💻 Data Science | Machine Learning | Web Development  
+💻 Data Science | Machine Learning | Web Development | Software Engineer
 📍 Nellore, India  
-# 👋 Hi, I'm Mannepalli Harshini  
-
-⭐ Turning ideas into impactful solutions through data, code, and AI.  
-
 ---
 
 ## 🔗 Connect with Me
@@ -48,7 +44,7 @@ I enjoy building real-world solutions using data and technology.
 Python, Java, SQL  
 
 **Technologies:**  
-Machine Learning, Data Analysis, Web Development  
+Machine Learning, Data Analysis, Web Development, SDLC 
 
 **Tools:**  
 Git, GitHub, VS Code  
